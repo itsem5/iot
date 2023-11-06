@@ -1,0 +1,8 @@
+IOT LAB 2:
+
+1) Install Arduino IDE
+2) Go to - Tools>Boards>Board Manager, Search "ESP32", Download (esp32) //Wait for download to finish
+3) Enter - "Ctrl+Shift+I", Search for "DHT11" and download - (DHT Sensor Library by Adafruit) and Also Search for "ThingSpeak" and Download "ThingSpeak by Mathworks"
+4) Enter - "Shift+,(Shift+Comma)" and paste this link in Additional Boards Manager URLs - "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"	
+5) Go To - "Tools>Boards>esp32>select ESP32 Dev Module"
+6) Install USB Drivers through this Link - "https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers"
